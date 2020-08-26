@@ -13,7 +13,7 @@
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/UMAprotocol/protocol)](https://github.com/UMAprotocol/protocol/commits/master)
 [![GitHub contributors](https://img.shields.io/github/contributors-anon/UMAprotocol/protocol)](https://github.com/UMAprotocol/protocol/graphs/contributors)
 
-[![Generic badge](https://img.shields.io/badge/homepage-view-red.svg)](https://umaproject.org/)
-[![Generic badge](https://img.shields.io/badge/discord-join-green.svg)](https://discord.com/invite/jsb9XQJ)
-[![Generic badge](https://img.shields.io/badge/send-email-blue.svg)](mailto:hello@umaproject.org)
+[![Generic badge](https://img.shields.io/badge/homepage-view-red.svg)]
+[![Generic badge](https://img.shields.io/badge/discord-join-green.svg)]
+[![Generic badge](https://img.shields.io/badge/send-email-blue.svg)]
 
