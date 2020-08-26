@@ -13,7 +13,7 @@
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/UMAprotocol/protocol)](https://github.com/UMAprotocol/protocol/commits/master)
 [![GitHub contributors](https://img.shields.io/github/contributors-anon/UMAprotocol/protocol)](https://github.com/UMAprotocol/protocol/graphs/contributors)
 <h3 color = "yellow">Arcturus is an advanced oracle of VRF (random function) + Gaussian Naive Bayes (Gaussian Naive Bayes) artificial intelligence algorithm. Unlike other oracles such as ChainLink, Arcturus uses VRF functions to select nodes in a carousel, avoiding Centralized node data is affected by evil, and Gaussian Naive Bayes (Gaussian Naive Bayes) artificial intelligence algorithm is introduced to optimize the network for forward and advanced operations. Arcturus will seamlessly link encrypted random encryption algorithms, artificial intelligence, and blockchain. Arcturus will become the future predictor of the DEFI world!</h3>
-</br>
+</hr>
 **This release is under development**
 
 The node-oracledb add-on for Node.js powers high performance Oracle
