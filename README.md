@@ -2,7 +2,6 @@
 # Arcturus
 
 <p align="center">
-  <img alt="Arcturus Logo" src="https://ibb.co/k95MFfS" width="440">
 </p>
 
 [![<UMAprotocol>](https://circleci.com/gh/UMAprotocol/protocol.svg?style=shield)](https://app.circleci.com/pipelines/github/UMAprotocol/protocol)
