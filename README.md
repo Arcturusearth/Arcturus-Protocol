@@ -2,7 +2,7 @@
 # Arcturus
 
 <p align="center">
-  <img alt="UMA Logo" src="https://ibb.co/k95MFfS" width="440">
+  <img alt="Arcturus Logo" src="https://ibb.co/k95MFfS" width="440">
 </p>
 
 [![<UMAprotocol>](https://circleci.com/gh/UMAprotocol/protocol.svg?style=shield)](https://app.circleci.com/pipelines/github/UMAprotocol/protocol)
@@ -17,7 +17,6 @@
 [![Generic badge](https://img.shields.io/badge/homepage-view-red.svg)](https://umaproject.org/)
 [![Generic badge](https://img.shields.io/badge/discord-join-green.svg)](https://discord.com/invite/jsb9XQJ)
 [![Generic badge](https://img.shields.io/badge/send-email-blue.svg)](mailto:hello@umaproject.org)
-[![Twitter Follow](https://twitter.com/Arcturu05066233)
 ## Documentation 📚
 
 Our docs site is [here](https://docs.umaproject.org). It contains tutorials, explainers, and smart contract
