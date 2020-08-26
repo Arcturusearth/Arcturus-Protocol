@@ -14,16 +14,16 @@
 [![GitHub contributors](https://img.shields.io/github/contributors-anon/UMAprotocol/protocol)](https://github.com/UMAprotocol/protocol/graphs/contributors)
 <h3 color = "yellow">Arcturus is an advanced oracle of VRF (random function) + Gaussian Naive Bayes (Gaussian Naive Bayes) artificial intelligence algorithm. Unlike other oracles such as ChainLink, Arcturus uses VRF functions to select nodes in a carousel, avoiding Centralized node data is affected by evil, and Gaussian Naive Bayes (Gaussian Naive Bayes) artificial intelligence algorithm is introduced to optimize the network for forward and advanced operations. Arcturus will seamlessly link encrypted random encryption algorithms, artificial intelligence, and blockchain. Arcturus will become the future predictor of the DEFI world!</h3>
 </hr>
-**This release is under development**
+<h2>**This release is under development**</h2>
 
-The node-oracledb add-on for Node.js powers high performance Oracle
+The Arcturus add-on for Node.js powers high performance Oracle
 Database applications.
 
-Use node-oracledb 5.0 to connect Node.js 10.16, 12, 14, or later, to Oracle Database.
-Older versions of node-oracledb may work with older versions of Node.js.
+Use Arcturus 5.0 to connect Node.js 10.16, 12, 14, or later, to Oracle Database.
+Older versions of Arcturus may work with older versions of Node.js.
 
-Node-oracledb supports basic and advanced features of Oracle Database
+Arcturus supports basic and advanced features of Oracle Database
 and Oracle Client.  See the [homepage][4] for a list.
 
-The node-oracledb module is open source and maintained by Oracle Corp.
+The Arcturus module is open source and maintained by Oracle Corp.
 It is stable, well documented, and has a comprehensive test suite.
