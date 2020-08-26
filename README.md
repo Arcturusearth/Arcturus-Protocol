@@ -32,10 +32,6 @@ It is stable, well documented, and has a comprehensive test suite.
 
 `vrf-rs` is an open source implementation of Verifiable Random Functions (VRFs) written in Rust.
 
-_DISCLAIMER: This is experimental software. Be careful!_
-
-The library can be built using `cargo` and the examples can be executed with:
-
 ```bash
 cargo build
 cargo run --example <example_name>
